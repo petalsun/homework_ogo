@@ -1,4 +1,4 @@
-![1.1 Сравнение на MNIST](https://github.com/petalsun/homework_ogo/tree/homework4/plots/final1.png)
+![1.1 Сравнение на MNIST](https://github.com/petalsun/homework_ogo/blob/homework4/plots/final1.png)
 
 
 ![DeepFCN_Matrix](https://github.com/petalsun/homework_ogo/tree/homework4/plots/DeepFcnMatr.png)
